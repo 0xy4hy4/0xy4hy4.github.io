@@ -37,4 +37,4 @@ My work is fast and accurate and I give main importance to communication - I'm a
  
 ### Contact me
 
-[email@domain.com](mailto:benyahya2013@gmail.com)
+[benyahya2013@gmail.com](mailto:benyahya2013@gmail.com)
