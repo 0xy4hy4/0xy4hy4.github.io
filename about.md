@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: 
 ---
 
 Front-end , Back-end development is my passion. 
