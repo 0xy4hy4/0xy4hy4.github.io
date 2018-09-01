@@ -9,7 +9,7 @@ salam all
 
 the objective of this tool is to facilitation calculate the VLSM and CIDR , the results output shown on terminal + in file .
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/0xy4hy4/VLSM-CIDR/raw/master/ENG/1.png)
 
 , usage : https://www.youtube.com/watch?v=eHNUXbretdo
 
