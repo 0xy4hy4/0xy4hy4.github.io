@@ -4,6 +4,7 @@ title: VLSM + CIDR Calculator
 ---
 
 the objective of this tool is to facilitation calculate the VLSM and CIDR , the results output shown on terminal + in file (shown below).
+
 ![alt text](https://github.com/0xy4hy4/VLSM-CIDR/raw/master/ENG/1.png)
 
 example :
@@ -35,4 +36,3 @@ Filename : istaRN.doc
 ![alt text](https://github.com/0xy4hy4/VLSM-CIDR/raw/master/ENG/3.png)
 
 ![alt text](https://github.com/0xy4hy4/VLSM-CIDR/raw/master/ENG/2.png)
-+
