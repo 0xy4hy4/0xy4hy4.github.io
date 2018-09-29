@@ -22,15 +22,7 @@ PHOTOSHOP / HTML/HTML5 CSS/CSS3 / Bootstrap / AnularJS / JQUERY / python/ JS / P
 
 -----------------------Security Researcher-----------------------
 
-Software that I used for Automatic Information Security Testing and Hybrid Information Security Testing include: - 
-
-- Nexpose
-- Nikto v2 Security Scanner 
-- OWASP Zap 
-- Burp 
-- Acunetix 
-
-Manual Penetration Testing is my forte. I also write Cyber Security Blogs. All the websites developed by me are tested for security issues before getting delivered to the client. My clients can always count on me for the security of their precious websites.
+Manual Penetration Testing is my forte i'm Capture The Flag Player specialised on Web , digital Forensics , Networking , i have solved numerous of challenges some their solutions are on Blogs section . I also write Cyber Security Blogs. All the websites developed by me are tested for security issues before getting delivered to the client. My clients can always count on me for the security of their precious websites.
 
 
 My work is fast and accurate and I give main importance to communication - I'm always available online (Skype, or e-mail) and I'll do my best to keep my clients updated during (and even after!) our collaboration , Always ready to work in strict environment . Complete work in given duration no accuses for more time
