@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Break In CTF 2018 [Web 500pts]
+title: Break In CTF 2018 Challenge [Web 500pts]
 ---
 <h3 id="break-in-2018-connecting-will"><strong>Break In 2018 - Connecting Will</strong></h3>
 
