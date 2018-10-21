@@ -15,6 +15,18 @@
 			word-wrap: break-word;
 		}
 
+.highlighter-rouge {
+		width:547px;
+	background:@color-2nd;
+	border-radius:0.3rem;
+	box-shadow:0 8px 12px rgba(0,0,0,0.1);
+	overflow:hidden;
+			height:37px;
+		background:@color-3rd;
+		position:relative;
+
+	
+}
 
 code {
 				position:absolute;
