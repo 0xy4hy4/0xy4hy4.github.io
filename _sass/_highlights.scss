@@ -28,6 +28,11 @@ code {
 			white-space:pre-wrap;
 			line-height:1.5em;
 			word-wrap: break-word;
+			pointer-events:none;
+			z-index:3;
+			margin:0;
+			overflow-y:auto;
+
 
 }
 
