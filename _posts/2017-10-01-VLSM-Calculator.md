@@ -25,7 +25,7 @@ for the hosts it does not matter if you begain From the smallest to largest
 
 after that put the names from who have largest value to smallest (Site1R3,Site1R1,Site1R2,Site1R0)
 
-Put the names of the older ones at least : Site1R3,Site1R1,Site1R2,Site1R0 mn ba3d kaygoul lina ila bghiina n7atto had l calculation f un fichier
+Put the names of the older ones at least : Site1R3,Site1R1,Site1R2,Site1R0 .
 
 Appear in a file? Yes (Y) or No (n) :
 
