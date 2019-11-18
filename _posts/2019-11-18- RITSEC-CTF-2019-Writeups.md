@@ -1,4 +1,12 @@
-<p>RITSEC CTF 2019 CHALLENGES</p>
+---
+layout: post
+title:  RITSEC CTF 2019 CHALLENGES [WRITEUPS]
+---
+<h3><strong>RITSEC CTF 2019 </strong></h3>
+
+<hr>
+
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2023-26-48.png?raw=true" alt="" width="491" height="418" /></p>
