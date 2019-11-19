@@ -5,14 +5,16 @@ title:  RITSEC CTF 2019 CHALLENGES [WRITEUPS]
 <h3><strong>RITSEC CTF 2019 </strong></h3>
 
 <hr>
-Source
 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2023-26-48.png?raw=true" alt=""  /></p>
+<p><strong>CHALLENGE</strong></p>
+<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2023-26-48.png?raw=true" alt="" /></p>
+<p>&nbsp;</p>
+<p>SOLUTION</p>
 <p>they given an image by this hint "Artist" i took look at EXIF DATA :</p>
-<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2023-37-34.png?raw=true"  /></p>
+<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2023-37-34.png?raw=true" /></p>
 <p>the " user comment " contain base64 , after decryption :</p>
 <p>EVGFRP{SBERAFVPF_SNVYF_JBAG_URYC_LBH_URER}</p>
 <p>&nbsp;the flag encoded with caesar cipher&nbsp;</p>
@@ -20,8 +22,9 @@ Source
 <p>FLAG :&nbsp;RITSEC{FORENSICS_FAILS_WONT_HELP_YOU_HERE}</p>
 <p>&nbsp;</p>
 <hr />
-<p>&nbsp;</p>
+<p>&nbsp;CHALLENGE</p>
 <p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2023-59-23.png?raw=true" alt="" /></p>
+<p>&nbsp;SOLUTION</p>
 <p>&nbsp;</p>
 <p>the seconde challenge there's two methods to solve it , let's take the easy one</p>
 <p>after downloading the pcapc i opened it with wireshark&nbsp; :</p>
@@ -33,7 +36,7 @@ Source
 <p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2018-45-09.png?raw=true" alt="" /></p>
 <hr />
 <p>&nbsp;</p>
-<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2018-54-10.png?raw=true"  /></p>
+<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2018-54-10.png?raw=true" /></p>
 <p>file name chromebin by using binwalk tool for extracting the embedded files , given chrome folder and 0.tar file after seeing these i assumed that's google chrome backup , in the description they want us to check the history , so the path is : /Chrome/User Data/Default/history</p>
 <p>using some databases reader&nbsp;</p>
 <p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2019-07-53.png?raw=true" alt="" /></p>
@@ -47,7 +50,11 @@ Source
 <h2>RITSEC{CHR0M3_BM_FTW}</h2>
 <p>&nbsp;</p>
 <h2>----------------------------------------------</h2>
-<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2021-02-21.png?raw=true" alt=""  /></p>
+<p>&nbsp;</p>
+<p>CHALLENGE</p>
+<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-18%2021-02-21.png?raw=true" alt="" /></p>
+<p>&nbsp;</p>
+<p>SOLUTION&nbsp;</p>
 <p>they given a large file with multiple base encoded ciphertext : base64/base16/base32 encoded a lot of times , i wrote this script :</p>
 <p>```</p>
 <p>#!/usr/bin/env</p>
@@ -67,7 +74,11 @@ Source
 <p>```</p>
 <p>&nbsp;flag : RITSEC{0n1On_L4y3R}</p>
 <hr />
-<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-19%2000-18-34.png?raw=true"  /></p>
+<p>&nbsp;</p>
+<p>CHALLENGE</p>
+<p><img src="https://github.com/0xy4hy4/0xy4hy4.github.io/blob/master/_posts/RITSEC_img/Screenshot%20from%202019-11-19%2000-18-34.png?raw=true" /></p>
+<p>&nbsp;</p>
+<p>SOLUTION</p>
 <p>&nbsp;</p>
 <p>by&nbsp;just removing &lt;region&gt;&nbsp; part :</p>
 <p>http://bucketsoffun-ctf.s3.amazonaws.com/</p>
